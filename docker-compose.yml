@@ -3,4 +3,4 @@ services :
   web :
      image : faizdocker94/my-note-app:latest
      ports :
-         - "9000:8000"
+         - "8000:8000"
